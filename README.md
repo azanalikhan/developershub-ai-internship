@@ -22,7 +22,6 @@ developershub-ai-internship/
 │   └── Task5_Mental_Health_Chatbot.ipynb
 ├── task6_house_prices/
 │   └── Task6_House_Price_Prediction.ipynb
-├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── README.md

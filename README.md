@@ -2,8 +2,6 @@
 
 **Intern:** Aazan Ali Khan  
 **Program:** AI/ML Engineering Internship — DevelopersHub Corporation  
-**Due Date:** 26th June, 2026  
-**Completed Tasks:** All 6 / 6
 
 ---
 
@@ -148,7 +146,4 @@ Then open any notebook from the task folders.
 
 ---
 
-## Submission
 
-Submitted via Google Classroom as required.  
-GitHub Repository: `https://github.com/YOUR_USERNAME/developershub-aiml-internship`

@@ -1,0 +1,34 @@
+DevelopersHub Corporation — Internal Knowledge Base (Sample Corpus)
+
+## Remote Work Policy
+Employees may work remotely up to 3 days per week, subject to manager approval.
+Core collaboration hours are 10:00 AM to 3:00 PM in the employee's local timezone.
+Remote employees must attend the weekly all-hands meeting on Mondays at 9:30 AM.
+
+## Leave Policy
+Full-time employees accrue 18 paid leave days per year, plus 10 public holidays.
+Sick leave of up to 3 consecutive days does not require a medical certificate.
+Leave requests must be submitted through the HR portal at least 5 working days
+in advance, except for emergencies.
+
+## Onboarding Process
+New hires complete a 2-week onboarding program covering company tools, security
+training, and role-specific shadowing. IT provisions laptops and accounts within
+the first 48 hours. A dedicated onboarding buddy is assigned for the first month.
+
+## Expense Reimbursement
+Business expenses under $50 can be self-approved by submitting a receipt through
+the finance portal. Expenses above $50 require manager approval before submission.
+Reimbursements are processed within 10 business days.
+
+## AI/ML Internship Program
+The AI/ML Engineering Internship consists of foundational and advanced task sets.
+Interns must complete at least 3 of 5 advanced tasks, covering transformer
+fine-tuning, ML pipelines, multimodal learning, conversational AI with RAG, and
+LLM-based ticket tagging. All submissions require a GitHub repository with a
+README describing objective, methodology, and results.
+
+## IT Support
+The IT helpdesk is available Monday-Friday, 9 AM-6 PM, via the #it-support Slack
+channel. Password resets are self-service through the SSO portal. Hardware
+issues should be logged as a ticket with priority level and device asset tag.

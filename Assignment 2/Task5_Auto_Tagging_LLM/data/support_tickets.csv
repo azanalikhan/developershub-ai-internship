@@ -1,0 +1,11 @@
+ticket_id,text,true_tags
+1,"I can't log into my account, it says my password is incorrect even though I reset it twice.","Login Issue;Account"
+2,"My subscription was charged twice this month, please refund the duplicate charge.","Billing;Refund"
+3,"The app crashes every time I try to upload a photo larger than 5MB.","Bug;Mobile App"
+4,"How do I export my data to a CSV file? I can't find the option anywhere.","Feature Request;How-To"
+5,"Your API is returning 500 errors intermittently for the /users endpoint since this morning.","API;Bug;Outage"
+6,"I'd like to cancel my subscription and get a prorated refund for the unused days.","Billing;Cancellation;Refund"
+7,"The dashboard is loading extremely slowly, sometimes taking over a minute.","Performance;Bug"
+8,"Can you add dark mode to the settings page? Would really help at night.","Feature Request;UI"
+9,"I was charged for the premium plan but I'm still seeing the free tier limits.","Billing;Account"
+10,"Getting a 'permission denied' error when trying to invite teammates to my workspace.","Bug;Account;Team Management"

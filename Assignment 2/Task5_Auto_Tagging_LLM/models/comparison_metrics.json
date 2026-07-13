@@ -1,0 +1,12 @@
+{
+  "zero_shot": {
+    "avg_precision_at_3": 0.7,
+    "avg_recall": 0.9333333333333333,
+    "top1_match_rate": 1.0
+  },
+  "few_shot": {
+    "avg_precision_at_3": 0.7333333333333333,
+    "avg_recall": 0.9666666666666666,
+    "top1_match_rate": 1.0
+  }
+}

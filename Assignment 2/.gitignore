@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.egg-info/
+
+# Large generated artifacts (regenerate via the scripts instead of committing)
+**/models/*.joblib
+**/models/checkpoints/
+**/vector_store/

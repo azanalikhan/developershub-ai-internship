@@ -1,0 +1,6 @@
+# Ignore heavy ML checkpoints
+**/mental_health_model/
+*.safetensors
+*.pt
+*.bin
+*.pth
